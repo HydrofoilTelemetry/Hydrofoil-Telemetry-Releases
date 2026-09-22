@@ -26,11 +26,16 @@ multiplayer sessions.
 Live race-control, server-control, monitoring, and umpire tools for
 advanced Hydrofoil Generation multiplayer use.
 
-### HT Race Course Plotter
+### HTRCP --- HT Race Course Plotter
 
 A visual desktop course editor for Hydrofoil Generation race courses,
 with tools for working with marks, spawns, boundaries, laylines,
 ladders, and course geometry.
+
+### HTGBM --- HT Ghost Boat Manager
+
+A desktop management tool for enabling, managing, and customizing Hydrofoil Generation Ghost Boats,
+including ghost replays, names, nations, and skins.
 
 ------------------------------------------------------------------------
 
