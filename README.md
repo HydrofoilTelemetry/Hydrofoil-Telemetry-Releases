@@ -54,17 +54,9 @@ installation.
 
 ## Installation
 
-1.  Download the ZIP package for the HT application you want to install.
-2.  Save the ZIP file to your computer.
-3.  Right-click the downloaded ZIP and select **Extract All...**
-4.  Open the extracted folder.
-5.  Run **Setup.exe**.
-6.  Follow the HT Setup Wizard to complete installation.
-
-**Do not run Setup.exe directly from inside the ZIP archive.**
-
-Detailed installation instructions are included inside each download
-package.
+1.  Download the setup.exe file for the HT application you want to install.
+2.  Run the **Setup.exe**.
+3.  Follow the Setup Wizard to complete installation.
 
 ------------------------------------------------------------------------
 
