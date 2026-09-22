@@ -41,8 +41,7 @@ including ghost replays, names, nations, and skins.
 
 ## Downloads
 
-Official Setup.exe files for HT applications are available from the
-**Releases** section of this repository.
+HT applications are available from the **Releases** section of this repository.
 
 Each application is distributed as an EXE file.
 
