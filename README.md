@@ -74,14 +74,6 @@ specific malware detection, stop and verify the file before running it.
 
 ------------------------------------------------------------------------
 
-## Updates
-
-New HT versions will be published through the **Releases** section.
-Release information will identify the application and version so users
-can distinguish current releases from previous versions.
-
-------------------------------------------------------------------------
-
 ## About Hydrofoil Telemetry
 
 HT projects include tools for real-time telemetry, post-race analysis,
