@@ -26,7 +26,7 @@ multiplayer sessions.
 Live race-control, server-control, monitoring, and umpire tools for
 advanced Hydrofoil Generation multiplayer use.
 
-### HT Race Course Plotter 2026
+### HT Race Course Plotter
 
 A visual desktop course editor for Hydrofoil Generation race courses,
 with tools for working with marks, spawns, boundaries, laylines,
