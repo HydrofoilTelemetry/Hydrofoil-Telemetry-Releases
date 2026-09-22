@@ -36,19 +36,10 @@ ladders, and course geometry.
 
 ## Downloads
 
-Official packaged versions of HT applications are available from the
+Official Setup.exe files for HT applications are available from the
 **Releases** section of this repository.
 
-Each application is distributed as a ZIP package containing the Windows
-installer and installation documentation.
-
-Typical package contents:
-
-    Setup.exe
-    HT_INSTALLATION_README.txt
-
-Always download and extract the complete ZIP package before
-installation.
+Each application is distributed as an EXE file.
 
 ------------------------------------------------------------------------
 
